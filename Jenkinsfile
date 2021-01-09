@@ -14,19 +14,10 @@ stages
 }
 }
 }
-{('stage-3')
-{steps
-{sh 'echo building code'
+{( 'stage-3' )
+{ steps
+{ sh 'echo building code'
 }
 }
 }
-
-
-
-
-
 }
-
-
-
-
