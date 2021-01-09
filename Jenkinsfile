@@ -7,6 +7,7 @@ stages
 {sh 'echo cloning code'
 }
 }
+}
 {('stage-2')
 {steps
 {sh 'echo downloading code'
